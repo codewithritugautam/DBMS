@@ -1,0 +1,1 @@
+package hibernate4119OneToOne;
